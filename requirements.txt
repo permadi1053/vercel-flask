@@ -1,1 +1,4 @@
 Flask
+joblib
+pandas
+sci-learn
